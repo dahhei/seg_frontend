@@ -1,5 +1,5 @@
 # sam2-video-annotator
-
+ 
 A Next.js-based video annotation tool leveraging Radix UI, Tailwind CSS, and modern React libraries.
 
 ## Features
